@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@adobe/pdfservices-node-sdk": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "tsx": "latest",
+    "typescript": "latest",
+    "gts": "latest"
+  }
+}
